@@ -4,8 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Hospital Website</b>
-  - [syokimau hospital](https://github.com/nduvaaa/Syokimau-hospital)
+- <b>Company</b>
+  - [Simpli Builds](https://www.simplibuilds.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
